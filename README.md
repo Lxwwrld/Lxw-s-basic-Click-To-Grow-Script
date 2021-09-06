@@ -1,1 +1,1 @@
-# Lxw-s-basic-Click-To-Grow-Script
+Lxws Scriptz
