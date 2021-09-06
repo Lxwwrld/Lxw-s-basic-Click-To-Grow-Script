@@ -1,0 +1,11 @@
+-- Made by Lxw#8450, it's basic ik
+
+--game = https://www.roblox.com/games/2726456994/Click-to-grow-UPDATED
+
+getgenv().farmer = true;
+
+while wait(0) do
+    if getgenv().farmer == true then
+        game:service'Workspace'.Events.AddPoints:FireServer()
+    end
+end
