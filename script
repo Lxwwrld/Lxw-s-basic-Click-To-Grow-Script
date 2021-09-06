@@ -2,20 +2,6 @@
 
 --game = https://www.roblox.com/games/2726456994/Click-to-grow-UPDATED
 
- game.StarterGui:SetCore("SendNotification", {
-        Title = "Info";
-        Text = "Made by Lxw#8450";
-        Duration = 5;
-
- game.StarterGui:SetCore("SendNotification", {
-        Title = "Info";
-        Text = "ik its basic stfu";
-        Duration = 5;
- game.StarterGui:SetCore("SendNotification", {
-        Title = "Info";
-        Text = "btw u can't stop it lol";
-        Duration = 5;
-
 getgenv().farmer = true;
 
 while wait(0) do
